@@ -1,0 +1,1 @@
+export { repositoriesApi } from "./repositoriesApi";
